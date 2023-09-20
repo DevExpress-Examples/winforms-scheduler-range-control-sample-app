@@ -14,3 +14,8 @@ This example demonstrates main features of the WinForms Scheduler control. The S
 ## Files to Review
 
 * [Form1.cs](./CS/SampleSchedulerRangeControl/Form1.cs)
+
+
+## Documentation
+
+* [Getting Started - WinForms Scheduler](https://docs.devexpress.com/WindowsForms/2949/controls-and-libraries/scheduler/getting-started)
