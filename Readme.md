@@ -6,7 +6,7 @@
 
 # WinForms Scheduler - A sample application with the Range Control
 
-This example demonstrates main features of the WinForms Scheduler control. The Scheduler control is bound to a MS SQL database and "linked" to the WinForms Range Control.
+This example demonstrates main features of the WinForms Scheduler control. The Scheduler control is bound to a Microsoft SQL database and "linked" to the WinForms Range Control.
 
 ![WinForms Scheduler - A sample application with the Range Control](https://raw.githubusercontent.com/DevExpress-Examples/rangecontrol-and-schedulercontrol-a-sample-application-e4287/14.2.3+/media/993db193-5874-4346-bf6d-4a9da33c5206.png)
 
