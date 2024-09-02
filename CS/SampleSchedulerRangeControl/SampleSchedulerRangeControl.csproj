@@ -8,10 +8,9 @@
     <ProjectGuid>{3272B5CF-571B-4F77-B681-1809DDDD25CE}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <RootNamespace>SampleSchedulerRangeControl</RootNamespace>
     <AssemblyName>SampleSchedulerRangeControl</AssemblyName>
-    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileUpgradeFlags></FileUpgradeFlags>
     <OldToolsVersion>2.0</OldToolsVersion>
     <UpgradeBackupLocation />
