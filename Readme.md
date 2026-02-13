@@ -21,7 +21,7 @@ This example demonstrates main features of the WinForms Scheduler control. The S
 
 * [Getting Started - WinForms Scheduler](https://docs.devexpress.com/WindowsForms/2949/controls-and-libraries/scheduler/getting-started)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-scheduler-range-control-sample-app&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-scheduler-range-control-sample-app&~~~was_helpful=no)
 
